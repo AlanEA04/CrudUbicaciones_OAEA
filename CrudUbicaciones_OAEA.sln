@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudUbicaciones_OAEA", "CrudUbicaciones_OAEA.csproj", "{41FC1A55-B884-42EC-9030-5909016339AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BILL", "..\BILL\BILL.csproj", "{2B748087-9EB5-46F7-BDBF-29541713782B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "..\DAL\DAL.csproj", "{F84D2361-B4F4-4AF2-8FC4-D478C40A0935}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41FC1A55-B884-42EC-9030-5909016339AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41FC1A55-B884-42EC-9030-5909016339AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41FC1A55-B884-42EC-9030-5909016339AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41FC1A55-B884-42EC-9030-5909016339AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B748087-9EB5-46F7-BDBF-29541713782B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B748087-9EB5-46F7-BDBF-29541713782B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B748087-9EB5-46F7-BDBF-29541713782B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B748087-9EB5-46F7-BDBF-29541713782B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F84D2361-B4F4-4AF2-8FC4-D478C40A0935}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F84D2361-B4F4-4AF2-8FC4-D478C40A0935}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F84D2361-B4F4-4AF2-8FC4-D478C40A0935}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F84D2361-B4F4-4AF2-8FC4-D478C40A0935}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E570075-C7CF-466D-B9B2-BC4B00157F02}
+	EndGlobalSection
+EndGlobal
